@@ -3,7 +3,6 @@ using Microsoft.Win32;
 using System.IO.Ports;
 using System.Text.RegularExpressions;
 
-#nullable disable
 namespace pdutil;
 
 internal class ComPorts

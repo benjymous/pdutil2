@@ -5,7 +5,7 @@ This is a drop-in replacement for the 'pdutil' tool included in the Windows vers
 ## Features
 
 * Same basic functionality as the stock pdutil (on Windows)
-* `install` command now only copies new or changed files, for faster updating
+* `install` command now only copies new or changed files, for faster updating.  Also can copy a zipped pdx
 * `clean` command does a clean install (removing existing pdx files before copying)
 * `cmd` command allows you to run a [serial USB](https://github.com/cranksters/playdate-reverse-engineering/blob/main/usb/usb.md) command directly from the shell (without having to set up serial comms, etc)
 * `shell` launches you directly into a serial USB shell

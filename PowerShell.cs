@@ -1,6 +1,5 @@
 ﻿using System.Diagnostics;
 
-#nullable disable
 namespace pdutil;
 
 internal class PowerShell
